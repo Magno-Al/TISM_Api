@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "65giRbFVvZd9wvuEJ5mfBenleNsZw+AaHcHhEnr4X50=",
+  "Source": "TISM_Api",
+  "BasePath": "_content/TISM_Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

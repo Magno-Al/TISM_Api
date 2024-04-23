@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TISM_Api.props" />
+</Project>

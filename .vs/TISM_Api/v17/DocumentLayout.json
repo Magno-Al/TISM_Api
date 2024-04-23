@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ammag\\Desktop\\DevMovel\\TISM_Api\\TISM_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDFC108-ED99-42D1-A51C-F6FC78EDDACF}|TISM_Api.csproj|c:\\users\\ammag\\desktop\\devmovel\\tism_api\\tism_api\\mqttclient_tism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDFC108-ED99-42D1-A51C-F6FC78EDDACF}|TISM_Api.csproj|solutionrelative:mqttclient_tism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDFC108-ED99-42D1-A51C-F6FC78EDDACF}|TISM_Api.csproj|c:\\users\\ammag\\desktop\\devmovel\\tism_api\\tism_api\\controllers\\mqttcomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDFC108-ED99-42D1-A51C-F6FC78EDDACF}|TISM_Api.csproj|solutionrelative:controllers\\mqttcomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDFC108-ED99-42D1-A51C-F6FC78EDDACF}|TISM_Api.csproj|c:\\users\\ammag\\desktop\\devmovel\\tism_api\\tism_api\\sensors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDFC108-ED99-42D1-A51C-F6FC78EDDACF}|TISM_Api.csproj|solutionrelative:sensors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDFC108-ED99-42D1-A51C-F6FC78EDDACF}|TISM_Api.csproj|c:\\users\\ammag\\desktop\\devmovel\\tism_api\\tism_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDFC108-ED99-42D1-A51C-F6FC78EDDACF}|TISM_Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MqttComController.cs",
+              "DocumentMoniker": "C:\\Users\\ammag\\Desktop\\DevMovel\\TISM_Api\\TISM_Api\\Controllers\\MqttComController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MqttComController.cs",
+              "ToolTip": "C:\\Users\\ammag\\Desktop\\DevMovel\\TISM_Api\\TISM_Api\\Controllers\\MqttComController.cs",
+              "RelativeToolTip": "Controllers\\MqttComController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:03:17.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MqttClient_TISM.cs",
+              "DocumentMoniker": "C:\\Users\\ammag\\Desktop\\DevMovel\\TISM_Api\\TISM_Api\\MqttClient_TISM.cs",
+              "RelativeDocumentMoniker": "MqttClient_TISM.cs",
+              "ToolTip": "C:\\Users\\ammag\\Desktop\\DevMovel\\TISM_Api\\TISM_Api\\MqttClient_TISM.cs",
+              "RelativeToolTip": "MqttClient_TISM.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:19:47.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sensors.cs",
+              "DocumentMoniker": "C:\\Users\\ammag\\Desktop\\DevMovel\\TISM_Api\\TISM_Api\\Sensors.cs",
+              "RelativeDocumentMoniker": "Sensors.cs",
+              "ToolTip": "C:\\Users\\ammag\\Desktop\\DevMovel\\TISM_Api\\TISM_Api\\Sensors.cs",
+              "RelativeToolTip": "Sensors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:01:15.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ammag\\Desktop\\DevMovel\\TISM_Api\\TISM_Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ammag\\Desktop\\DevMovel\\TISM_Api\\TISM_Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:01:20.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
